@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, &nbsp; I'm jeffohh</h1>
-<h3 align="left">Computer Science Undergraduate at the University of Utah</h3>
+<h3 align="left">University of Utah <br> Computer Science Undergraduate</h3>
 
 - 🌱 I’m currently learning **Computer Systems**, **Computer Networks**, and **Databases**!
 - 💡 I'm interested in **Game Development** and **Software Development**.
@@ -76,7 +76,7 @@
     /></a>
 </p>
 
-<h4 align="left">Familiar With</h4>
+<h4 align="left">Competent</h4>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -90,7 +90,7 @@
       width="40"
       height="40"
     /></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
       width="40"
@@ -102,6 +102,8 @@
       width="40"
       height="40"
     /></a>
+  
+  <h4 align="left">Familiar With</h4>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
       alt="docker"
@@ -120,9 +122,21 @@
       width="40"
       height="40"
     /></a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"
+      alt="jupyter"
+      width="40"
+      height="40"
+    /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql"
+      width="40"
+      height="40"
+    /></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
       width="40"
       height="40"
     /></a>
