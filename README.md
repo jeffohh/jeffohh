@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, &nbsp; I'm jeffohh</h1>
 <h3 align="left">University of Utah <br> Computer Science Undergraduate</h3>
 
-- 🌱 I’m currently learning **Computer Systems**, **Computer Networks**, and **Databases**!
+- 🌱 I’m currently learning **Artificial Intelligence**, **Parallel Programming**, **Operating Systems**, and **Compilers**!
 - 💡 I'm interested in **Game Development** and **Software Development**.
 - 👨‍💻 All of my projects are showcased at [jeffohh.github.io](https://jeffohh.github.io/)
 
