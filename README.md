@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, &nbsp; I'm jeffohh</h1>
-<h3 align="left">University of Utah <br> Computer Science Graduate</h3>
+<h3 align="left">University of Utah <br> Computer Science Graduate <br> Entertainment Arts and Engineering Master's Candidate</h3>
 
 - 🌱 I’m currently learning **Game Design**, **Prototyping**, and **Programming C++ in UE5**!
 - 💡 I'm interested in **Game Development** and **Software Development**.
