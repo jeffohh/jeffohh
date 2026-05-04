@@ -141,9 +141,5 @@
 </p>
 
 <p>
-    <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffohh&show_icons=true&locale=en&layout=compact&theme=transparent"
-        alt="Github Stats"
-    />
+    <img src="https://ghstats.dev/api/langs?username=jeffohh&hide_border=true" alt="Top Languages" align="center" />
 </p>
